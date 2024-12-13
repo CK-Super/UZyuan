@@ -21,7 +21,7 @@
         {
             "api": "https://ghp.ci/https://raw.github.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jcy.js",
             "name": "囧次元",
-            "instance": "extApp",
+            "instance": "jcy20240823",
             "webSite": "http:/43.142.232.217:8090",
             "remark": "动漫·1080P",
             "noHistory": false,
@@ -106,7 +106,7 @@
         {
             "api": "https://ghp.ci/https://raw.github.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/aomipan.js",
             "name": "🍔奥秘影视",
-            "instance": "extApp",
+            "instance": "aomipan20241030",
             "webSite": "https://vip.omii.top/",
             "remark": "奥秘网盘",
             "noHistory": false,
@@ -123,7 +123,7 @@
         {
             "api": "https://ghp.ci/https://raw.github.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/yunxing.js",
             "name": "⛅️云星日记",
-            "instance": "extApp",
+            "instance": "yunxing20241030",
             "webSite": "https://4k.4u4.cn",
             "remark": "云星网盘",
             "noHistory": false,
@@ -140,7 +140,7 @@
         {
             "api": "https://ghp.ci/https://raw.github.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tudou.js",
             "name": "🥔土豆粉条",
-            "instance": "extApp",
+            "instance": "tudou20241030",
             "webSite": "https://yunpan.yunpay.cc",
             "remark": "土豆网盘",
             "noHistory": false,
@@ -242,7 +242,7 @@
         {
             "api": "https://ghp.ci/https://raw.github.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/biliys.js",
             "name": "💧哔嘀影视",
-            "instance": "extApp",
+            "instance": "",
             "webSite": "https://www.xlys01.com",
             "remark": "1.6.41 及以上版本可用",
             "noHistory": false,
@@ -259,7 +259,7 @@
         {
             "api": "https://ghproxy.cn/https://raw.github.com/proversion2024/uz-extensions/refs/heads/master/vod/js/moedm.txt",
             "name": "pv嗷呜动漫",
-            "instance": "extApp",
+            "instance": "",
             "webSite": "https://www.moedm.net",
             "remark": "嗷呜动漫",
             "noHistory": false,
@@ -278,7 +278,7 @@
         {
             "api": "https://ghproxy.cn/https://raw.github.com/proversion2024/uz-extensions/refs/heads/master/vod/js/leijing.txt",
             "name": "pv雷鲸",
-            "instance": "extApp",
+            "instance": "leiJing20241126",
             "webSite": "https://www.leijing.xyz",
             "remark": "天翼网盘",
             "noHistory": false,
